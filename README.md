@@ -51,18 +51,3 @@ The following machine learning models will include 5 machine learning algo.
 ### 2. Compare the performance by using metricss
 The metrics that will be use to compare the models is accurart,precission,recall, F1-score......
 
-## Project Structure
-
-```text
-Predict-the-Genetic-Disorders-Dataset-of-Genomes-/
-│
-├── notebooks/
-│   └── data_cleaning.ipynb
-│
-├── data/
-|   |─ test_genetic_disorders.csv
-│   └── train_genetic_disorders.csv
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
